@@ -21,6 +21,10 @@ alias aliases='vim ~/.bash_aliases'
 alias nanorc='vim ~/.config/nano/nanorc'
 alias vimrc='vim ~/.vimrc'
 alias alacritty='vim ~/.config/alacritty/alacritty.yml'
+alias i3config='vim ~/.i3/config'
 
 # Others
 alias adedonha='python ~/Scripts/Python/Adedonha/adedonha'
+alias estender='xrandr --auto --output eDP-1 --right-of HDMI-1'
+alias dimbrilho='xrandr --output eDP-1 --brightness 0.7'
+alias aumbrilho='xrandr --output eDP-1 --brightness 1'
